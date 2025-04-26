@@ -19,7 +19,7 @@ The application also supports **importing data from a JSON file** and **exportin
 ## Installation:
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/concentration-complexation-calculator.git
+    git clone https://github.com/yourusername/complexing_calculations.git
     ```
 2. Navigate into the project directory:
     ```bash

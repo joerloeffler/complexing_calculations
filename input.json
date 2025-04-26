@@ -1,0 +1,22 @@
+{
+    "complex": {
+        "concentration": 0.7,
+        "molar_mass": 330000,
+        "final_volume": 21
+    },
+    "compounds": [
+        {
+            "name": "AB",
+            "concentration": 0.98,
+            "molar_mass": 50000,
+            "ratio": 3
+        },
+        {
+            "name": "AG",
+            "concentration": 4.01,
+            "molar_mass": 180000,
+            "ratio": 1
+        }
+    ]
+}
+

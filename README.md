@@ -82,6 +82,6 @@ The application also supports **importing data from a JSON file** and **exportin
         }
     ]
 }
-
+```
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.

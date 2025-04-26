@@ -19,20 +19,11 @@ The application also supports **importing data from a JSON file** and **exportin
 ## Installation:
 1. Clone the repository:
     ```bash
-<<<<<<< HEAD
-    git clone https://github.com/yourusername/complexing_calculations.git
-=======
     git clone https://github.com/joerloeffler/complexing_calculations.git
->>>>>>> 9f26879 (Resolved merge conflicts in README.md)
     ```
 2. Navigate into the project directory:
     ```bash
     cd concentration-complexation-calculator
-    ```
-
-3. Install required dependencies (if any):
-    ```bash
-    pip install -r requirements.txt
     ```
 
 ## Usage:
